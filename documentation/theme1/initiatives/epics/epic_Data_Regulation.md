@@ -9,4 +9,4 @@ User Stories: [Protect privacy and rights Story]
 Priority: [Medium]
 
 # List stories related to this Epic
-1. [Protect privacy and rights Story](documentation/theme1/initiatives/epics/stories/story_protect_privacy.md)
+1. [Protect privacy and rights Story](./stories/story_protect_privacy.md)

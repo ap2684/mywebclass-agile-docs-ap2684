@@ -19,5 +19,5 @@ The website must have a process in place for reporting any data breaches to the 
 The website must regularly review and update its data protection policies and procedures to ensure ongoing compliance with relevant regulations.
 
 # List Tasks related to this Story
-1. [Task 1](documentation/theme1/initiatives/epics/stories/tasks/task_pp_identifyinfo.md)
-2. [Task 2](documentation/theme1/initiatives/epics/stories/tasks/task_pp_concentwebpage.md)
+1. [Task 1](./tasks/task_pp_identifyinfo.md)
+2. [Task 2](./tasks/task_pp_concentwebpage.md)

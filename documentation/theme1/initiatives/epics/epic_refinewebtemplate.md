@@ -7,4 +7,4 @@ Goals: [To improve the webpage upon user feedback ]
 Priority: [Medium]
 
 # List stories related to this Epic
-1. [Refine Webpage](documentation/theme1/initiatives/epics/stories/story_refinewebsitepage.md)
+1. [Refine Webpage](./stories/story_refinewebsitepage.md)

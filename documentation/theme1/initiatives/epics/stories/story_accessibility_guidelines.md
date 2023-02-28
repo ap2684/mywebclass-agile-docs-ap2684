@@ -20,4 +20,4 @@ The website must be tested with users who have disabilities to ensure that it is
 The website must have a clear and accessible accessibility statement or policy, which describes the measures taken to ensure accessibility and provides a way for users to report any accessibility issues they encounter.
 
 # List Tasks related to this Story
-1. [Task 1](documentation/theme1/initiatives/epics/stories/tasks/task_access.md)
+1. [Task 1](./tasks/task_access.md)
