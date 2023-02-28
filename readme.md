@@ -136,7 +136,7 @@ review this effectiveness before the next iteration of the project.
 
 ## Release Schedule
 
-| Release Version | Release Date | Features                                                                                                                                                                      |
-|-----------------|--------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 0.1.0           | Mar 03, 2023 | -A basic webpage that can be found using a<br/>search engine<br/>-Implement legal requirements<br/>-Legally use Google Analytics<br/>-Validates w3c, Lighthouse, GDPR Scanner |
+| Release Version | Release Date | Features                                                                                              |
+|-----------------|--------------|-------------------------------------------------------------------------------------------------------|
+| 0.1.0           | Mar 03, 2023 | -A basic webpage that can be found using a<br/>search engine<br/>-Implement legal requirements.<br/>-Ensure Compliance with Accessibility Guidelines|
 
