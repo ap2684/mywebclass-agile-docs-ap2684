@@ -2,7 +2,7 @@
 
 Description: [Create a basic web template that is easy to find using search engines]
 
-Goals: [To publish the webpage for the user ]
+Goals: [To publish and easily access the webpage for users]
 
 Priority: [Medium]
 

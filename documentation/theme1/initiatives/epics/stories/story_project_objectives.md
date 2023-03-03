@@ -1,4 +1,4 @@
-As a project manager, I want to create a project charter to define the scope, objectives, and stakeholders of the project.
+Create a project charter to define the scope, objectives, and stakeholders of the project.
 
 ### Acceptance Criteria:
 The Documentation should have stated proper scope, objectives, milestones, and stakeholders of the project.

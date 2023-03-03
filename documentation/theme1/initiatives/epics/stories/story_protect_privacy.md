@@ -10,14 +10,6 @@ Users must be given the option to opt-in to any data collection, and be able to 
 
 The website must have a clear and accessible privacy policy that explains how user data will be collected, used, and protected.
 
-User data must be stored securely, using appropriate encryption and access controls.
-
-The website must have a process in place for responding to user requests to access, modify, or delete their personal data.
-
-The website must have a process in place for reporting any data breaches to the relevant authorities and affected users.
-
-The website must regularly review and update its data protection policies and procedures to ensure ongoing compliance with relevant regulations.
-
 # List Tasks related to this Story
 1. [Task 1](./tasks/task_pp_identifyinfo.md)
 2. [Task 2](./tasks/task_pp_concentwebpage.md)

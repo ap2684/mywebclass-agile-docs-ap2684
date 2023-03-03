@@ -1,8 +1,8 @@
-Task Title: [Create mockups of the webpage]
+Task Title: [Research SEO requirement]
 
 User Story: [ResearchSEO Story]
 
-Description: [Create wireframes and mockups of the basic web template design, using user-centered design principles.]
+Description: [Research SEO requirements to make the webpage optimum searchable.]
 
 Assigned To: []
 
