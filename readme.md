@@ -132,11 +132,11 @@ At this juncture, the efficacy of the documentation is measured by how well it e
 review this effectiveness before the next iteration of the project.
 # Your  plan should replace the content below
 
-[Project Setup](documentation/theme_1/theme_project_setup.md)
+### [1 Project Setup](documentation/theme1/theme_project_setup.md)
 
 ## Release Schedule
 
-| Release Version | Release Date | Features |
-|-----------------|--------------|----------|
-| 0.1.x           | TBD          | TBD      |
+| Release Version | Release Date | Features                                                                                              |
+|-----------------|--------------|-------------------------------------------------------------------------------------------------------|
+| 0.1.0           | Mar 03, 2023 | -A basic webpage that can be found using a<br/>search engine<br/>-Implement legal requirements.<br/>-Ensure Compliance with Accessibility Guidelines|
 
