@@ -7,4 +7,4 @@ Goals: [To publish and easily access the webpage for users]
 Priority: [Medium]
 
 # List stories related to this Epic
-1. [Design Optimal Webpage](./stories/story_websitedesign.md)
+1. [Design Optimal Webpage](./stories/story_websitedevelopment.md)
