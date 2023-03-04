@@ -4,5 +4,5 @@ Create a project charter to define the scope, objectives, and stakeholders of th
 The Documentation should have stated proper scope, objectives, milestones, and stakeholders of the project.
 
 # List Tasks related to this Story
-1. [Task 1](./tasks/task_objectives.md)
-2. [Task 2](./tasks/task_milestones.md)
+1. [Project Vision Docs Task](./tasks/task_objectives.md)
+2. [Project Milestone Docs Task](./tasks/task_milestones.md)

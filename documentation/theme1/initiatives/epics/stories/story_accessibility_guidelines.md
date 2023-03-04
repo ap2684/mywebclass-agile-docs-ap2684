@@ -10,4 +10,4 @@ The website must provide sufficient color contrast between text and background t
 The website must be tested with users who have disabilities to ensure that it is accessible and usable for them.
 
 # List Tasks related to this Story
-1. [Task 1](./tasks/task_access.md)
+1. [Implement accessibility features Task](./tasks/task_access.md)

@@ -6,6 +6,6 @@ The website should have a consistent design and color scheme throughout, with ea
 The website should be optimized for fast loading times, so that users can access the information they need quickly and easily.
 
 # List Tasks related to this Story
-1. [Task 1](./tasks/task_collect_feedback.md)
-2. [Task 2](./tasks/task_analyze_feedback.md)
-3. [Task 3](./tasks/task_refine_webpage.md)
+1. [Collect user feedback Task](./tasks/task_collect_feedback.md)
+2. [Analyze feedback Task](./tasks/task_analyze_feedback.md)
+3. [Refine Web page code Task](./tasks/task_refine_webpage.md)

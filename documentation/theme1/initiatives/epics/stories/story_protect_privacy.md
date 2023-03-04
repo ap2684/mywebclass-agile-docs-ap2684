@@ -11,5 +11,5 @@ Users must be given the option to opt-in to any data collection, and be able to 
 The website must have a clear and accessible privacy policy that explains how user data will be collected, used, and protected.
 
 # List Tasks related to this Story
-1. [Task 1](./tasks/task_pp_identifyinfo.md)
-2. [Task 2](./tasks/task_pp_concentwebpage.md)
+1. [Identify the types of data collected Task](./tasks/task_pp_identifyinfo.md)
+2. [Develop a data protection policy Task](./tasks/task_pp_concentwebpage.md)
